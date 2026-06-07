@@ -1,0 +1,8 @@
+# Ignore local system checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore localized data blocks if tracking locally
+data/
+test/
